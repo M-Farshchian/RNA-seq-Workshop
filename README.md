@@ -1,1 +1,1 @@
-# RNA-seq-Workshop
+# RNA-seq Workshop
